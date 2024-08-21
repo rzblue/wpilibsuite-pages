@@ -1,0 +1,4 @@
+var struct_eigen_1_1internal_1_1traits_3_01_matrix_exponential_return_value_3_01_derived_01_4_01_4 =
+[
+    [ "ReturnType", "struct_eigen_1_1internal_1_1traits_3_01_matrix_exponential_return_value_3_01_derived_01_4_01_4.html#a3bec94bf86829192b25303ba5d6ca02a", null ]
+];

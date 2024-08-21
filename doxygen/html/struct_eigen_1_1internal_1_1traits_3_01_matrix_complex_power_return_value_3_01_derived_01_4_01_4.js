@@ -1,0 +1,4 @@
+var struct_eigen_1_1internal_1_1traits_3_01_matrix_complex_power_return_value_3_01_derived_01_4_01_4 =
+[
+    [ "ReturnType", "struct_eigen_1_1internal_1_1traits_3_01_matrix_complex_power_return_value_3_01_derived_01_4_01_4.html#a2390b025a5d97a60440cd2d975e5d6ea", null ]
+];

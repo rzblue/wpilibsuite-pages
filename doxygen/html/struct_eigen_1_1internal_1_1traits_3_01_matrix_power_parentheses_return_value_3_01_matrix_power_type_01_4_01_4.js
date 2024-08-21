@@ -1,0 +1,4 @@
+var struct_eigen_1_1internal_1_1traits_3_01_matrix_power_parentheses_return_value_3_01_matrix_power_type_01_4_01_4 =
+[
+    [ "ReturnType", "struct_eigen_1_1internal_1_1traits_3_01_matrix_power_parentheses_return_value_3_01_matrix_power_type_01_4_01_4.html#a0edd2175f1eda1837464abc66b2a1ccb", null ]
+];
